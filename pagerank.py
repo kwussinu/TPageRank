@@ -3,7 +3,7 @@ pagerank.py
 -----------
 
   PageRank: An Eigenvector Problem (class presentation)
-  By: Minh Tran, Komlan Wussinu, Tony Nielsen  
+  By: Tran, Wussinu, and Nielsen  
 
   Recreates Google's PageRank as described in:
 - The Web is a directed graph (pages = nodes, links = edges)
